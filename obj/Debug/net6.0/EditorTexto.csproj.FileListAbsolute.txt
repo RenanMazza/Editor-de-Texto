@@ -1,0 +1,15 @@
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\bin\Debug\net6.0\EditorTexto.exe
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\bin\Debug\net6.0\EditorTexto.deps.json
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\bin\Debug\net6.0\EditorTexto.runtimeconfig.json
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\bin\Debug\net6.0\EditorTexto.dll
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\bin\Debug\net6.0\ref\EditorTexto.dll
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\bin\Debug\net6.0\EditorTexto.pdb
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.AssemblyReference.cache
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\obj\Debug\net6.0\EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfoInputs.cache
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\obj\Debug\net6.0\EditorTexto.AssemblyInfo.cs
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\obj\Debug\net6.0\EditorTexto.csproj.CoreCompileInputs.cache
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\obj\Debug\net6.0\EditorTexto.dll
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\obj\Debug\net6.0\ref\EditorTexto.dll
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\obj\Debug\net6.0\EditorTexto.pdb
+C:\estudos\EstudosDeEstrutura\ESTUDOS\EditorTexto\obj\Debug\net6.0\EditorTexto.genruntimeconfig.cache
